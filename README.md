@@ -1,4 +1,4 @@
-# Weather
+# Weather App
 This project is a simple weather webpage created using HTML, CSS, and JavaScript. It allows users to search for weather information by city name and displays current weather data.
 
 ## Features
